@@ -1,0 +1,7 @@
+dj-database-url
+django==1.10.5
+requests
+gunicorn
+whitenoise
+psycopg2
+bs4
